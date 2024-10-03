@@ -2,7 +2,7 @@ import React from 'react';
 
 import Image from 'next/image';
 
-import LOGO from '../../../assets/Logo.png';
+import LOGO from '../../../assets/LOGO.png';
 import * as SC from './styles';
 
 export const Logo = (): JSX.Element => {
