@@ -1,4 +1,4 @@
 export const LIGHT = {
-  BACKGROUND: '#143C8C',
-  PLACEHOLDER: '#fff',
+  BACKGROUND: '#003e71',
+  PLACEHOLDER: '#C3C3C3',
 };

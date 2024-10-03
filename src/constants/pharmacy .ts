@@ -5,6 +5,12 @@ export const NAMES = {
   DROGARIA_POUPEJA: 'Drogaria Poupe Já',
   DROGA_LUNA: 'Droga Luna',
   FARMA_PRACAPOPULAR: 'Farma Praça Popular',
+  BIFARMA: 'Bifarma',
+  DROGARIA_SANTARITA: 'Drogaria Santa Rita',
+  DROGARIA_POPULAR: 'Drogaria Popular',
+  DROGARIA_POUPAPHARMA: 'Drogaria PoupaPharma',
+  FARMADIAS: 'Farma Dias',
+  DROGARIA_CARVALHO: 'Drogaria Carvalho',
 };
 
 export const PHARMACYS = [
@@ -42,6 +48,42 @@ export const PHARMACYS = [
     name: NAMES.FARMA_PRACAPOPULAR,
     address: 'Praça Santa Rita, 15, Centro, Santa Rita do Sapucaí',
     contact: '35 9 9954-6847',
+    isOpen: true,
+  },
+  {
+    name: NAMES.BIFARMA,
+    address: 'Praça Santa Rita, 11, Centro, Santa Rita do Sapucaí',
+    contact: '35 3471-7893',
+    isOpen: true,
+  },
+  {
+    name: NAMES.DROGARIA_POPULAR,
+    address: 'Rua Juca Castelo, 5287, Centro, Santa Rita do Sapucaí',
+    contact: '35 3471-3840',
+    isOpen: true,
+  },
+  {
+    name: NAMES.DROGARIA_SANTARITA,
+    address: 'R. Silvestre Ferraz, 234, Centro, Santa Rita do Sapucaí',
+    contact: '35 3471-2857',
+    isOpen: true,
+  },
+  {
+    name: NAMES.DROGARIA_POUPAPHARMA,
+    address: 'Av. Antonio Paulino, 1, Centro, Santa Rita do Sapucaí',
+    contact: '35 3471-4518',
+    isOpen: true,
+  },
+  {
+    name: NAMES.FARMADIAS,
+    address: 'Av. Frederico de Paula Cunha, 743, Centro, Santa Rita do Sapucaí',
+    contact: '35 3471-4101',
+    isOpen: true,
+  },
+  {
+    name: NAMES.DROGARIA_CARVALHO,
+    address: 'Av. Antonio Paulino, 50, Centro, Santa Rita do Sapucaí',
+    contact: '35 3471-1604',
     isOpen: true,
   },
 ];

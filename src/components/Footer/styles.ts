@@ -11,7 +11,6 @@ export const Container = styled.div`
   text-align: center;
   font-size: 12px;
   font-family: Inter;
-  color: #b0b0b0;
 
   a {
     color: white;

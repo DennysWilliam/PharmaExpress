@@ -2,7 +2,7 @@ import React from 'react';
 
 import Image from 'next/image';
 
-import BLOB1 from '../../../assets/Group 9.png';
+import BLOB1 from '../../../assets/logo_1.png';
 import Address from '../Address';
 import Tag from '../Tag';
 import Title from '../Title';
@@ -24,7 +24,7 @@ export const Card = ({
   return (
     <SC.Container isOpen={isOpen}>
       <div>
-        <Image src={BLOB1} alt="" />
+        <Image src={BLOB1} alt="" width={100} />
       </div>
       <div>
         <Tag value={contact} isOpen={isOpen} />
