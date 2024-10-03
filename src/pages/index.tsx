@@ -8,7 +8,7 @@ export default function HomePage() {
         <title>Pharma Express</title>
         <meta
           name="description"
-          content="Nosso site é o destino definitivo para você encontrar informações atualizadas sobre os plantões de farmácias. Estamos aqui para garantir que você nunca fique sem acesso aos serviços farmacêuticos essenciais quando mais precisa."
+          content="Nosso site é o destino definitivo para você encontrar informações atualizadas sobre farmácias. Estamos aqui para garantir que você nunca fique sem acesso aos serviços farmacêuticos essenciais quando mais precisa."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
